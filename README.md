@@ -40,15 +40,15 @@
 </br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anukiw2002&langs_count=8&hide=ShaderLab,HLSL&show_icons=true&theme=tokyonight&locale=en&layout=compact"
-        alt="tharindu-dm" />
+        alt="Anukiw2002" />
 </div>
 </br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Anukiw2002&rank_icon=github&show_icons=true&theme=tokyonight&locale=en"
-        alt="tharindu-dm" />
+        alt="Anukiw2002" />
 </div>
 </br>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Anukiw2002&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=467"
-        alt="tharindu-dm" />
+        alt="Anukiw2002" />
 </div>
